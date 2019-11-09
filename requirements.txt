@@ -1,0 +1,4 @@
+click
+pynvim
+requests
+stripe
